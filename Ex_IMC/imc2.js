@@ -2,7 +2,7 @@ function calcula_imc(){
     var altura = document.imcForm.altura.value;
     var peso = document.imcForm.peso.value;
 
-    var calculo = (pso/(altura*altura));
+    var calculo = (peso/(altura*altura));
 
     if(calculo<18.5){
         alert("Você está abaixo do peso com um indice de: " + calculo);
