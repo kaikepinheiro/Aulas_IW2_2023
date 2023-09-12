@@ -1,6 +1,6 @@
 # Aulas_IW2_2023
 
-https://kaikepinheiro.github.io/Aulas_IW2_2023/Declaracao_Var/aula1.html
+https://kaikepinheiro.github.io/Aulas_IW2_2023/Declaração_Var/aula1.html
 
 https://kaikepinheiro.github.io/Aulas_IW2_2023/funcao/index.html
 
